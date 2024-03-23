@@ -23,7 +23,7 @@ header #headline, header #circular-bg {
 }
 body {
 
-  background-image: url("https://xn--80adgc9anlo8f.xn--p1ai/upload/iblock/732/73250923870aa367a193753f04d25bfd.JPG"); 
+  background-image: url("https://terma-istochnik.ru/wp-content/uploads/2023/03/Snimok-ekrana-2023-03-02-v-06.22.00.png"); 
 
   font-family: "Roboto", sans-serif;
 
@@ -43,9 +43,9 @@ header .info p {
 
   text-align: justify;
 
-  top: -500px;
+  top: -700px;
 
-  left: -10px;
+  left: -15px;
 
 }
 header #circular-bg {
@@ -56,9 +56,9 @@ header #circular-bg {
 
   background: #05b5eb;
 
-  border-radius: 50%;
+  border-radius: 40%;
 
-  z-index: -10;
+  z-index: -20;
 
 }
 header nav {
@@ -98,19 +98,19 @@ header #brand:before {
 
   position: absolute;
 
-  width: 110%;
+  width: 100%;
 
-  height: 60px;
+  height: 50px;
 
-  background-image: url("https://xn--80adgc9anlo8f.xn--p1ai/upload/iblock/98c/98ccdb6cb7d5a8613279976772fb376a.JPG");
+  background-image: url("https://www.shutterstock.com/shutterstock/videos/5737769/thumb/1.jpg?ip=x480");
 
-  bottom: -10px;
+  bottom: -20px;
 
   left: -5%;
 
-  border-radius: 60px;
+  border-radius: 50px;
 
-  z-index: -1;
+  z-index: -2;
 
 }
 header img {
@@ -119,7 +119,7 @@ header img {
 
   width: 600px;
 
-  top: 200px;
+  top: 250px;
 
   left: 300px;
 
@@ -132,9 +132,9 @@ header #headline {
 
   text-align: left;
 
-  left: 20%;
+  left: 18%;
 
-  top: 45%;
+  top: 43%;
 
 }
 
